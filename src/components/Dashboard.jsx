@@ -34,7 +34,7 @@ const Dashboard = () => {
     {
       title: 'Contact Us',
       image: 'https://www.subwayexpress.co.nz/Images/hompage/Rectangle_290.png',
-      link: 'https://samjamzzz.github.io/subway-catering-front/contact-us-subway',
+      link: '/contact-us-subway',
       linkText: 'Get In Touch',
       className: 'contact-us'
     },

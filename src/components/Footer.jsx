@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <footer>
-      <a href="https://samjamzzz.github.io/subway-catering-front">
+      <a href="/">
         <img className='footer-logo' src="https://wecatersubs.com/wp-content/uploads/2020/05/subway-logo-new.png"
              alt="WeCaterSubs.com"
         />
