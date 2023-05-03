@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/subway-catering-front/static/css/main.78f7dfef.css",
-    "main.js": "/subway-catering-front/static/js/main.45b0d9df.js",
+    "main.js": "/subway-catering-front/static/js/main.17a1abfc.js",
     "index.html": "/subway-catering-front/index.html",
     "main.78f7dfef.css.map": "/subway-catering-front/static/css/main.78f7dfef.css.map",
-    "main.45b0d9df.js.map": "/subway-catering-front/static/js/main.45b0d9df.js.map"
+    "main.17a1abfc.js.map": "/subway-catering-front/static/js/main.17a1abfc.js.map"
   },
   "entrypoints": [
     "static/css/main.78f7dfef.css",
-    "static/js/main.45b0d9df.js"
+    "static/js/main.17a1abfc.js"
   ]
 }
