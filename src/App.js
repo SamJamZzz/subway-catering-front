@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import "./App.css";
 import Head from "./components/Head";
 import Dashboard from "./components/Dashboard";
@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Head />
       <Routes>
-        <Route path="/" element={<Dashboard />} />
+        <Route exact path="/subway-catering-front" element={<Dashboard />} />
         <Route path="/school-lunch" element={<SchoolLunch />} />
         <Route path="/contact-us-subway" element={<Contact />} />
       </Routes>
