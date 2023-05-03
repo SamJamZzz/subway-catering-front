@@ -5,7 +5,7 @@ const Head = () => {
   return (
     <header>
       <div class="logo-container">
-        <a href="/">
+        <a href="https://samjamzzz.github.io/subway-catering-front">
           <img src="https://wecatersubs.com/wp-content/uploads/2018/07/subway-we-cater-subs-logo-new.png"
                alt="WeCaterSubs.com"
           />
