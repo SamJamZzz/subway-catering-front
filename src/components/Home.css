@@ -1,0 +1,150 @@
+.home-content {
+  margin: 75px 25px 25px;
+}
+
+section {
+  margin-bottom: 2rem;
+  padding: 2rem;
+  border: 1px solid #000;
+  border-radius: 25px;
+  font-size: 2rem;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.subway-link {
+  font-size: 1.2rem;
+  background-color: #ffcb09;
+  color: #000;
+  padding: 0.8rem;
+  text-decoration: none;
+  border-radius: 40px;
+}
+
+.subway-link:hover {
+  color: #009743;
+  background-color: #fff;
+}
+
+.yellow-text {
+  color: #ffcb09;
+}
+
+.order-online {
+  background-color: #009743;
+  display: flex;
+  align-items: center;
+}
+
+.order-text {
+  margin: 1rem;
+}
+
+.address-info {
+  background-color: #ffcb09;
+}
+
+.address-info h2 {
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.delivery h2 {
+  text-align: center;
+}
+
+.delivery-services {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.service-segment {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 1.5rem;
+}
+
+.service-segment img {
+  max-width: 300px;
+  object-fit: cover;
+}
+
+.service-segment h3, .service-segment p {
+  font-size: 1.2rem;
+  font-weight: 50;
+  text-align: center;
+  margin-top: auto;
+}
+
+.delivery-info {
+  background-color: #ffcb09;
+}
+
+.delivery-info img {
+  margin: 2rem;
+  width: 30%;
+}
+
+.menu {
+  background-color: #009743;
+  text-align: center;
+}
+
+.menu-items {
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.menu-items div {
+  margin: 1rem;
+}
+
+.menu-item img {
+  width: 80%;
+  border-radius: 25px;
+}
+
+.menu-item img:hover {
+  transform: translateY(-5px);
+}
+
+.misc {
+  display: flex;
+}
+
+.misc-item {
+  text-align: center;
+  margin: 1rem;
+}
+
+.misc-item img {
+  width: 300px;
+}
+
+.misc-item p {
+  font-size: 1.2rem;
+}
+
+.rewards {
+  background-color: #ff8200;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.rewards p {
+  margin: 0.5rem;
+}
+
+.rewards-logo {
+  width: 300px;
+  height: auto;
+}
+

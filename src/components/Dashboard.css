@@ -1,0 +1,93 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+main section {
+  flex-basis: 25%;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  cursor: pointer;
+  margin: 2em;
+  border-radius: 25px;
+}
+
+main section:hover {
+  animation: bounce 0.5s;
+  animation-fill-mode: forwards;
+}
+
+.order {
+  background: linear-gradient(11deg, rgba(253,194,0,1) 87%, rgba(255,219,0,1) 87%);
+}
+
+.school-lunch {
+  background: linear-gradient(11deg, rgba(0,141,67,1) 70%, rgba(133,196,65,1) 70%);
+}
+
+.catering {
+  background: linear-gradient(11deg, rgba(222,56,4,1) 54%, rgba(255,130,0,1) 54%);
+}
+
+.rewards {
+  background: linear-gradient(-15deg, rgba(76,2,106,1) 40%, rgba(124,62,151,1) 40%);
+}
+
+.contact-us {
+  background: linear-gradient(-15deg, rgba(0,105,62,1) 60%, rgba(0,141,67,1) 60%);
+}
+
+@keyframes bounce {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+section img {
+  width: 100%;
+  height: auto;
+}
+
+.catering img {
+  width: 80%;
+}
+
+.contact-us img {
+  width: 35%;
+}
+
+section h2 {
+  margin-top: 20px;
+  font-size: 1.5em;
+}
+
+section a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+section a:hover {
+  background-color: #0062cc;
+}
+
+@media (max-width: 768px) {
+  section {
+    flex-basis: 50%;
+  }
+}
