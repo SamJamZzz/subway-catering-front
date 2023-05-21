@@ -6,7 +6,7 @@ const Dashboard = () => {
     {
       title: 'Order Your Own',
       image: 'https://wecatersubs.com/wp-content/uploads/2020/05/subway-6-inch-sub.png',
-      link: 'https://www.subway.com/en-CA/locator',
+      link: 'https://www.subway.com/en-ca/restaurant/11425-0/menu?intcmp=yext-local:owned:order:Order%20Pickup:fwh-no-value-w2-2020:0:button:0:orderpickup:hu:local-ca-en-v1&segment_code=0',
       linkText: 'Order Now',
       className: 'order'
     },
