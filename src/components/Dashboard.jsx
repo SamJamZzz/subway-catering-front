@@ -13,7 +13,7 @@ const Dashboard = () => {
     {
       title: 'School Lunch',
       image: 'https://www.subwayexpress.co.nz/Images/hompage/sandwich2.png',
-      link: 'https://example.com',
+      link: 'https://mubarak-restaurant-ltd.square.site/',
       linkText: 'Explore',
       className: 'school-lunch'
     },
