@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer>
       <a href="/">
-        <img className='footer-logo' src="https://wecatersubs.com/wp-content/uploads/2020/05/subway-logo-new.png"
+        <img className='footer-logo' src="https://www.subway.com/en-ca/-/media/Project/Remote-Order/Images/Logo/subway-logo.png"
              alt="WeCaterSubs.com"
         />
       </a>

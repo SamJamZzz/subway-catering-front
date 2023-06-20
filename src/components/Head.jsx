@@ -6,7 +6,7 @@ const Head = () => {
     <header>
       <div class="logo-container">
         <a href="/">
-          <img src="https://wecatersubs.com/wp-content/uploads/2018/07/subway-we-cater-subs-logo-new.png"
+          <img src="https://www.subway.com/en-ca/-/media/Project/Remote-Order/Images/Logo/subway-logo.png"
                alt="WeCaterSubs.com"
           />
         </a>

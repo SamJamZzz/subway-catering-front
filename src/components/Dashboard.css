@@ -58,6 +58,10 @@ section img {
   height: auto;
 }
 
+.order img {
+  width: 70%;
+}
+
 .catering img {
   width: 80%;
 }
